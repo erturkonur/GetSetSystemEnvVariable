@@ -1,0 +1,5 @@
+C:\Users\10010419\source\repos\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.dll
+C:\Users\10010419\source\repos\EnvironmentVariable\EnvironmentVariable\bin\Debug\EnvironmentVariable.pdb
+C:\Users\10010419\source\repos\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.csprojAssemblyReference.cache
+C:\Users\10010419\source\repos\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.dll
+C:\Users\10010419\source\repos\EnvironmentVariable\EnvironmentVariable\obj\Debug\EnvironmentVariable.pdb
